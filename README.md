@@ -58,8 +58,6 @@ Tak – i ignorowanie ich może skutkować stratą pieniędzy. Poniżej lista rz
 - Zakupów bez sprawdzenia regionu aktywacji.
 - Ignorowania informacji o blokadzie regionalnej.
 
-🎥 **Bonus:** oficjalny kanał YouTube [Instant Gaming Polska](https://www.youtube.com) prezentuje instrukcje krok po kroku.
-
 ## Jakie aktualne rabaty są dostępne na karty podarunkowe do gier w Polsce?
 
 Instant Gaming regularnie oferuje atrakcyjne zniżki na karty i gry. Jak znaleźć najlepsze?
